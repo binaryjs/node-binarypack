@@ -1,0 +1,16 @@
+{
+  "name": "binarypack",
+	"description": "JSON-like binary serialization format for JS",
+  "version": "0.0.0",
+	"homepage": "https://github.com/binaryjs/node-binarypack",
+	"author": "Eric Zhang",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/binaryjs/node-binarypack"
+	},
+  "main": "./lib/binarypack",
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
+
