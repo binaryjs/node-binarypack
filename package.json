@@ -13,7 +13,7 @@
     "node": ">=0.6.0"
   },
   "dependencies" : {
-    "buffercursor" : ">=0.0.3",
+    "buffercursor" : ">=0.0.3"
   }
 }
 
