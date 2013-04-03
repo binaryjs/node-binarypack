@@ -1,7 +1,7 @@
 {
   "name": "binarypack",
 	"description": "BinaryPack is a JSON-like binary serialization format",
-  "version": "0.0.3",
+  "version": "0.0.4",
 	"homepage": "https://github.com/binaryjs/node-binarypack",
 	"author": "Eric Zhang",
 	"repository": {
